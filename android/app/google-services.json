@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724589205492",
+    "firebase_url": "https://flutter-e2abd.firebaseio.com",
+    "project_id": "flutter-e2abd",
+    "storage_bucket": "flutter-e2abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724589205492:android:cbd388da41d3e3f2",
+        "android_client_info": {
+          "package_name": "com.aliarain.fluttertextreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724589205492-q9erfvd170gm71st3jkvtu309a9vv8ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgEZqY623V05Oq781E6ZBUhIyYvUpkF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724589205492-q9erfvd170gm71st3jkvtu309a9vv8ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
